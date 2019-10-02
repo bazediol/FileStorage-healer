@@ -6,18 +6,28 @@ def initialization ():
         os.mkdir ('FileStorage')
     else:
         if  os.listdir('FileStorage'):
-            for the_file in os.listdir('FileStorage'):
-                file_path = os.path.join('FileStorage', the_file)
-                if os.path.isfile(file_path):
-                    os.unlink(file_path)
-                elif os.path.isdir(file_path): shutil.rmtree(file_path)
+            if input_check() == 'y':
+                for the_file in os.listdir('FileStorage'):
+                    file_path = os.path.join('FileStorage', the_file)
+                    if os.path.isfile(file_path):
+                        os.unlink(file_path)
+                    elif os.path.isdir(file_path): shutil.rmtree(file_path)
 
+def input_check ():
+    while True:
+        val = input ('FileStorage is not empty. Do you want to clean it up? \n Type y/n \n')
+        if val == 'y' or val == 'n':
+            return val
+            break
+        else:
+            print ('Please press only "y" or "n" \n')
 
 def creator (list):
     for folder, file in list:
         file_path = os.path.join ('FileStorage', folder)
-        os.mkdir(file_path)
-        open (os.path.join (file_path, file), 'x')
+        if not os.path.exists(file_path):
+            os.mkdir(file_path)
+            open (os.path.join (file_path, file), 'x')
     
 def parcer ():
     file = open ('logs.txt', 'r')
