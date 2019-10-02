@@ -1,0 +1,52 @@
+2019-10-02 09:19:11.616 +03:00 (16696:0001) [INF] Performing validation of FileStorage info (FileStorage Id: e2177891-d538-4a0e-bef3-aa700098aa32, Server name: UA-DTC-DBC\THREESHAPEDENTAL, DB name: DentalDesktop, User name: sa, DB Id: dcc4d807-b56f-4ffa-814b-c56efdfeb316, DB creation date: 17-09-2019 11:14:32)
+2019-10-02 09:19:13.217 +03:00 (16696:0001) [INF] FileStorage checking result. File C:\ProgramData\3Shape\DentalDesktop\FileStorage\00D9\00D9B8368B26209093C3E7D13067D9BA1DD07A87 is not found in the FileStorage. Database reference(s):
+Cases\ee5f0d59-5abd-419d-a7a9-8a7c410671c7\CTData1349314c-474a-44d3-b6bc-9ef701a76aa2\2193405786_235.dcm
+Cases\e17b483e-d583-414a-88d9-8f062b3fe849\CTData1349314c-474a-44d3-b6bc-9ef701a76aa2\2193405786_235.dcm
+Cases\bd66974b-bb6b-4098-8fd1-bc25444873dd\CTData1349314c-474a-44d3-b6bc-9ef701a76aa2\2193405786_235.dcm
+Cases\b40c8110-fb27-4f93-ab82-e64334928922\CTData1349314c-474a-44d3-b6bc-9ef701a76aa2\2193405786_235.dcm
+Cases\90389399-737e-4842-8915-84295f52a5cb\CTData1349314c-474a-44d3-b6bc-9ef701a76aa2\2193405786_235.dcm
+Cases\8c67328e-48ab-4004-afd8-e9b2f72c0290\CTData1349314c-474a-44d3-b6bc-9ef701a76aa2\2193405786_235.dcm
+Cases\8a2c55f7-bc4f-4b91-9c5f-cd22e1df409d\CTData1349314c-474a-44d3-b6bc-9ef701a76aa2\2193405786_235.dcm
+Cases\61408cfa-c114-4368-ae0e-9bd184663363\CTData1349314c-474a-44d3-b6bc-9ef701a76aa2\2193405786_235.dcm
+Cases\497a3056-c879-46f3-ae64-da106d5e4969\CTData1349314c-474a-44d3-b6bc-9ef701a76aa2\2193405786_235.dcm
+Cases\330752d5-5a75-420b-a51d-bb88217aa08a\CTData1349314c-474a-44d3-b6bc-9ef701a76aa2\2193405786_235.dcm
+Cases\1c075c8c-c929-4efb-af93-122a8cbb8fcf\CTData1349314c-474a-44d3-b6bc-9ef701a76aa2\2193405786_235.dcm
+Cases\08f047a6-bcdc-48f1-8958-8adaa64950db\CTData1349314c-474a-44d3-b6bc-9ef701a76aa2\2193405786_235.dcm
+2019-10-02 09:19:13.217 +03:00 (16696:0001) [INF] FileStorage checking result. File C:\ProgramData\3Shape\DentalDesktop\FileStorage\0A7C\0A7C9F480DACDC6EB0D668D95CC1A9CAF2D00896 is not found in the FileStorage. Database reference(s):
+Cases\ee5f0d59-5abd-419d-a7a9-8a7c410671c7\CTData1349314c-474a-44d3-b6bc-9ef701a76aa2\2193405786_471.dcm
+Cases\e17b483e-d583-414a-88d9-8f062b3fe849\CTData1349314c-474a-44d3-b6bc-9ef701a76aa2\2193405786_471.dcm
+Cases\bd66974b-bb6b-4098-8fd1-bc25444873dd\CTData1349314c-474a-44d3-b6bc-9ef701a76aa2\2193405786_471.dcm
+Cases\b40c8110-fb27-4f93-ab82-e64334928922\CTData1349314c-474a-44d3-b6bc-9ef701a76aa2\2193405786_471.dcm
+Cases\90389399-737e-4842-8915-84295f52a5cb\CTData1349314c-474a-44d3-b6bc-9ef701a76aa2\2193405786_471.dcm
+Cases\8c67328e-48ab-4004-afd8-e9b2f72c0290\CTData1349314c-474a-44d3-b6bc-9ef701a76aa2\2193405786_471.dcm
+Cases\8a2c55f7-bc4f-4b91-9c5f-cd22e1df409d\CTData1349314c-474a-44d3-b6bc-9ef701a76aa2\2193405786_471.dcm
+Cases\61408cfa-c114-4368-ae0e-9bd184663363\CTData1349314c-474a-44d3-b6bc-9ef701a76aa2\2193405786_471.dcm
+Cases\497a3056-c879-46f3-ae64-da106d5e4969\CTData1349314c-474a-44d3-b6bc-9ef701a76aa2\2193405786_471.dcm
+Cases\330752d5-5a75-420b-a51d-bb88217aa08a\CTData1349314c-474a-44d3-b6bc-9ef701a76aa2\2193405786_471.dcm
+Cases\1c075c8c-c929-4efb-af93-122a8cbb8fcf\CTData1349314c-474a-44d3-b6bc-9ef701a76aa2\2193405786_471.dcm
+Cases\08f047a6-bcdc-48f1-8958-8adaa64950db\CTData1349314c-474a-44d3-b6bc-9ef701a76aa2\2193405786_471.dcm
+2019-10-02 09:19:13.217 +03:00 (16696:0001) [INF] FileStorage checking result. File C:\ProgramData\3Shape\DentalDesktop\FileStorage\00B7\00B7997AB79C7386FF975ABF3E42F057C0F83F42 is not found in the FileStorage. Database reference(s):
+Cases\86afc88f-af7a-4418-98cd-b7061dcd38fa\DATA_NODES-6A1CF0DB-3D30-472E-A3E5\106d1f3ecf2d4fbea84cd18273247045
+2019-10-02 09:19:13.218 +03:00 (16696:0001) [INF] FileStorage checking result. File C:\ProgramData\3Shape\DentalDesktop\FileStorage\0A07\0A07EF39D5447FE9053F8277CA6EE7962CBD1C73 is not found in the FileStorage. Database reference(s):
+Cases\f28795bb-55ff-43d6-9c5d-277a3d324afd\DATA_NODES-6A1CF0DB-3D30-472E-A3E5\ScansPreparationForDesign.PanoramicSpline.Jaw.Lower_metadata
+2019-10-02 09:19:13.219 +03:00 (16696:0001) [INF] FileStorage checking result. File C:\ProgramData\3Shape\DentalDesktop\FileStorage\00C3\00C396541DE4AD2F0D897CDBA65255681D853C0D is not found in the FileStorage. Database reference(s):
+Cases\4a4c34fa-dd98-4e16-8e75-a3462acd4ad3\BiteScan2.DCM
+Cases\4a4c34fa-dd98-4e16-8e75-a3462acd4ad3\STATES-74AF8FA7-8AF0-4689-9054\25df02db0144421b8670b1a84836215b
+Cases\20be1f4d-8383-4962-895f-215593e9d23c\BiteScan2.DCM
+Cases\20be1f4d-8383-4962-895f-215593e9d23c\STATES-74AF8FA7-8AF0-4689-9054\25df02db0144421b8670b1a84836215b
+2019-10-02 09:19:13.219 +03:00 (16696:0001) [INF] FileStorage checking result. File C:\ProgramData\3Shape\DentalDesktop\FileStorage\00ED\00ED5A0D3C2C62F4967C79C740DBDD53817F2A0E is not found in the FileStorage. Database reference(s):
+Cases\e93f1216-23df-4c2b-bb7c-1b2bd466ebe0\CTData\Slice_0222.dcm
+Cases\9c95e414-2a9d-4979-ac98-ed038e384952\CTData\Slice_0222.dcm
+Cases\7ccd3344-ad07-4e7a-b581-96d0ae537c3f\CTData\Slice_0222.dcm
+2019-10-02 09:19:13.220 +03:00 (16696:0001) [INF] FileStorage checking result. File C:\ProgramData\3Shape\DentalDesktop\FileStorage\00C8\00C88D030FC02FF90658ADEF27F65EE98649BF53 is not found in the FileStorage. Database reference(s):
+Cases\17a86d0a-2002-4e95-8909-58dba3c0bd43\STATES-74AF8FA7-8AF0-4689-9054\TRIOSInternalStateCore_metadata
+2019-10-02 09:19:13.220 +03:00 (16696:0001) [INF] FileStorage checking result. File C:\ProgramData\3Shape\DentalDesktop\FileStorage\0A4A\0A4AE47E23BC33AFA4F838DDF365598AC6F18FF2 is not found in the FileStorage. Database reference(s):
+Cases\c59730ea-8ed1-4c88-a47b-79ea593300d1\ModelElement28.dcm
+Cases\bc2cd0db-78c9-44ad-bdbb-4062a792b54d\ModelElement28.dcm
+2019-10-02 09:19:13.220 +03:00 (16696:0001) [INF] FileStorage checking result. File C:\ProgramData\3Shape\DentalDesktop\FileStorage\00E2\00E2536E47385FD473C3F0082BF0BA00252938DD is not found in the FileStorage. Database reference(s):
+Cases\e93f1216-23df-4c2b-bb7c-1b2bd466ebe0\CTData\Slice_0326.dcm
+Cases\9c95e414-2a9d-4979-ac98-ed038e384952\CTData\Slice_0326.dcm
+Cases\7ccd3344-ad07-4e7a-b581-96d0ae537c3f\CTData\Slice_0326.dcm
+2019-10-02 09:19:13.221 +03:00 (16696:0001) [INF] FileStorage checking result. File C:\ProgramData\3Shape\DentalDesktop\FileStorage\00B5\00B564AE123362DF494D37E557D64EEA6F661C84 is not found in the FileStorage. Database reference(s):
+Cases\e9364b62-245c-4f70-8532-32da1d009464\CTData\0146.dcm
+Cases\6d5829d2-bb14-406a-8945-473523fe37e2\CTData\0146.dcm
