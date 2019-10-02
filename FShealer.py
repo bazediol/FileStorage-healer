@@ -27,6 +27,9 @@ def parcer ():
         print ("dir name: ", dir, " file: ", file_name, "\n")
     file.close()
     return parced_list
-        
-initialization()
-creator (parcer())
+
+try:       
+    initialization()
+    creator (parcer())
+except:
+    print ("An exception orrcured. Check if logs.txt exists")
